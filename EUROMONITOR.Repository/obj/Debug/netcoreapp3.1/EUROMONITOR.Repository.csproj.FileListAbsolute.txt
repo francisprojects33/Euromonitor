@@ -1,0 +1,12 @@
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\bin\Debug\netcoreapp3.1\EUROMONITOR.Repository.deps.json
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\bin\Debug\netcoreapp3.1\EUROMONITOR.Repository.dll
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\bin\Debug\netcoreapp3.1\EUROMONITOR.Repository.pdb
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\bin\Debug\netcoreapp3.1\EUROMONITOR.Model.dll
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\bin\Debug\netcoreapp3.1\EUROMONITOR.Model.pdb
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\obj\Debug\netcoreapp3.1\EUROMONITOR.Repository.csprojAssemblyReference.cache
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\obj\Debug\netcoreapp3.1\EUROMONITOR.Repository.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\obj\Debug\netcoreapp3.1\EUROMONITOR.Repository.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\obj\Debug\netcoreapp3.1\EUROMONITOR.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\obj\Debug\netcoreapp3.1\EUROMONITOR.Repository.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\obj\Debug\netcoreapp3.1\EUROMONITOR.Repository.dll
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Repository\obj\Debug\netcoreapp3.1\EUROMONITOR.Repository.pdb

@@ -1,0 +1,11 @@
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Model\bin\Debug\netcoreapp3.1\EUROMONITOR.Model.deps.json
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Model\bin\Debug\netcoreapp3.1\EUROMONITOR.Model.runtimeconfig.json
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Model\bin\Debug\netcoreapp3.1\EUROMONITOR.Model.runtimeconfig.dev.json
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Model\bin\Debug\netcoreapp3.1\EUROMONITOR.Model.dll
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Model\bin\Debug\netcoreapp3.1\EUROMONITOR.Model.pdb
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Model\obj\Debug\netcoreapp3.1\EUROMONITOR.Model.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Model\obj\Debug\netcoreapp3.1\EUROMONITOR.Model.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Model\obj\Debug\netcoreapp3.1\EUROMONITOR.Model.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Model\obj\Debug\netcoreapp3.1\EUROMONITOR.Model.dll
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Model\obj\Debug\netcoreapp3.1\EUROMONITOR.Model.pdb
+C:\Users\ADMIN\Documents\Francis\Job\53 Euromonitor\Solution\EUROMONITOR\EUROMONITOR.Model\obj\Debug\netcoreapp3.1\EUROMONITOR.Model.genruntimeconfig.cache
